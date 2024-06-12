@@ -1,0 +1,43 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: Gainsboro;
+}
+
+h2{
+    padding: 3px;
+    background-color: LightSkyBlue;
+}
+
+h1{
+    margin-top: 80px;
+}
+
+img{
+    width: 25px;
+    padding-right: 5px;
+    float: left;
+}
+
+li{
+    display:inline;
+    padding :10px ;
+    
+}
+
+nav{
+    background-color: LightSkyBlue;
+    overflow: hidden;
+    position: fixed;
+    top: 0%; 
+    width: 100%;
+    text-align:center;
+    margin: 0px;
+}
+
+p{
+    padding-left: 35px;
+}
+
+.details{
+    padding-left: 0px;
+}
